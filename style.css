@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: 5px solid maroon;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top: 100px;
+}
+
+.customButton{
+  width: 200px;
+  height: 30;
+  background-color: #fea834;
+  border: 3px solid white; 
+  color: #FFFF;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-bottom: 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: vollkorn;
+  margin: 4px 2px;
+  cursor: pointer;
+ 
+
+}
